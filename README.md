@@ -95,7 +95,7 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository, with a unique name and a README describing the project
 
-##Link to Deployed App
+## Link to Deployed App
 https://maryvda.github.io/Daily-Scheduler/
 
 - - -
