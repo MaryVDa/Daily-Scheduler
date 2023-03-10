@@ -98,5 +98,9 @@ You are required to submit the following for review:
 ## Link to Deployed App
 https://maryvda.github.io/Daily-Scheduler/
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/122223756/224204727-c7bab905-1358-434a-8c88-3a638a96b9cc.png)
+
+
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
